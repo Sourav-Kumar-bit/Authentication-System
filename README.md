@@ -17,7 +17,7 @@
 <li>Express</li>
 </ul>
 
-<h5>Steps</h5><ul>
+<h3>Steps to run in local</h3><ul>
 <li>Clone the repository.</li>
 </ul><ul>
 <li>Hit 'npm i' for bot client and server.</li>

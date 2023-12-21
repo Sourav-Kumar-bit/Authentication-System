@@ -1,7 +1,7 @@
 <h1>Authenticator</h1>
 <hr><p>Authenticator is a robust and secure authentication system meticulously crafted using the powerful MERN stack. Elevate your user authentication experience with a seamlessly integrated combination of MongoDB, Express.js, React, and Node.js, ensuring a smooth and responsive interaction between your users and the application.</p><h2>General Information</h2>
 <hr>
-<p>🛡️ Ironclad Security: Your users' data is our top priority. Utilizing JWT authentication, I've implemented industry-standard security measures to safeguard user credentials, thwart unauthorized access, and ensure data integrity.</p>
+<p>🛡️ **Ironclad Security:** Your users' data is our top priority. Utilizing JWT authentication, I've implemented industry-standard security measures to safeguard user credentials, thwart unauthorized access, and ensure data integrity.</p>
 <p>🔐 Password Fortification: Rest easy knowing that user passwords are fortified with the robust bcrypt hashing algorithm. Your users can trust that their sensitive information remains confidential and well-protected against potential threats.</p>
 <p>🔄 Effortless User Experience: Experience the synergy of a meticulously designed, responsive user interface that seamlessly synchronizes with the backend APIs. Your users will appreciate the user-friendly forms and efficient routing, ensuring a pleasant and intuitive journey through your application.</p>
 <p>🚀 Production-Ready Performance: Geared for high-performance, Authenticator is optimized for production, delivering swift responses and minimal latency. Experience the efficiency of a backend that scales seamlessly with the demands of your user base.</p>

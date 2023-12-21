@@ -1,12 +1,12 @@
 <h1>Authenticator</h1>
 <hr><p>Authenticator is a robust and secure authentication system meticulously crafted using the powerful MERN stack. Elevate your user authentication experience with a seamlessly integrated combination of MongoDB, Express.js, React, and Node.js, ensuring a smooth and responsive interaction between your users and the application.</p><h2>General Information</h2>
 <hr>
-<p>🛡️ Ironclad Security: Your users' data is our top priority. Utilizing JWT authentication, I've implemented industry-standard security measures to safeguard user credentials, thwart unauthorized access, and ensure data integrity.</p>
+<p>🛡️ Ironclad Security: Utilizing JWT authentication, I've implemented industry-standard security measures to safeguard user credentials, thwart unauthorized access, and ensure data integrity.</p>
 <p>🔐 Password Fortification: Rest easy knowing that user passwords are fortified with the robust bcrypt hashing algorithm. Your users can trust that their sensitive information remains confidential and well-protected against potential threats.</p>
 <p>🔄 Effortless User Experience: Experience the synergy of a meticulously designed, responsive user interface that seamlessly synchronizes with the backend APIs. Your users will appreciate the user-friendly forms and efficient routing, ensuring a pleasant and intuitive journey through your application.</p>
 <p>🚀 Production-Ready Performance: Geared for high-performance, Authenticator is optimized for production, delivering swift responses and minimal latency. Experience the efficiency of a backend that scales seamlessly with the demands of your user base.</p>
-<p>🔗 Complete API Integration: From user login authentication to password resets, every API endpoint is meticulously implemented, ensuring a comprehensive and reliable connection between your frontend and backend components.</p>
-<p>🌐 Scalable and Versatile: Whether you're serving a growing user base or adapting to evolving needs, our MERN stack application is designed to scale effortlessly. Enjoy the flexibility to expand your user authentication system without compromising on performance.</p><h2>Technologies Used</h2>
+<p>🔗 Complete API Integration: From user login authentication to maintaing sessions to password resets, user logout every API endpoint is meticulously implemented, ensuring a comprehensive and reliable connection between your frontend and backend components.</p>
+<p>🌐 Scalable and Versatile: Whether you're serving a growing user base or adapting to evolving needs, my MERN stack application is designed to scale effortlessly. Enjoy the flexibility to expand your user authentication system without compromising on performance.</p><h2>Technologies Used</h2>
 <hr><ul>
 <li>HTML</li>
 <li>CSS</li>

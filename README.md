@@ -1,4 +1,3 @@
-# Authentication-System
 <h1>Authenticator</h1>
 <hr><p>Authenticator is a robust and secure authentication system meticulously crafted using the powerful MERN stack. Elevate your user authentication experience with a seamlessly integrated combination of MongoDB, Express.js, React, and Node.js, ensuring a smooth and responsive interaction between your users and the application.</p><h2>General Information</h2>
 <hr>
